@@ -6,8 +6,8 @@ const placementProps: any = {
   'top-center':{left:'50%',position:'absolute',},
   'bottom-center':{left:'50%',bottom:0,position:'absolute',},
   'center':{left:'50%',top:'50%',position:'absolute',},
+  'right-center':{top:'50%',right:0,position:'absolute',},
   'left-center':{top:'50%',position:'absolute',}, 
-  'right-center':{top:'50%',right:0,position:'absolute',}
 };
 const baseStyle = {
   shadow: 7,
